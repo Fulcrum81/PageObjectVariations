@@ -1,0 +1,9 @@
+*.iws
+*.ipr
+*.zip
+*.log
+target/
+build/
+.idea/
+.allure/
+allure-results/
